@@ -1,0 +1,5 @@
+Os arquivos 'Rel2_Atvi1.m' e 'Rel2_Atvi2.m' apresentam os resultados das atividades 1 e 2, respectivamente, do segundo relatório.
+
+Os dois programas principais utilizam as funções desenvolvidas que estão separadas nas pastas 'Funcoes_coordenadas', 'Funcoes_orbita', 'Funcoes_plotagem' e 'Funcoes_simulacoes'.
+
+No arquivo 'Rel2_Atvi2.m' é utilizado o TLE para a simulação. Para alterar a simulação do objeto em órbita, é necessário alterar este parâmetro, tal modificação é necessária apenas no arquivo principal.
